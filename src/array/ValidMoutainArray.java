@@ -22,7 +22,11 @@ public class ValidMoutainArray {
                 break;
             }
         }
-        for (int i = len - 2; i >= 0; i--) {
+        int end = 0;
+        if (peek1 > 0) {
+            end = peek1 - 1;
+        }
+        for (int i = len - 2; i >= end; i--) {
             if (A[i] == A[i + 1]) {
                 return false;
             }
