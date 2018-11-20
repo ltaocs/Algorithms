@@ -1,6 +1,7 @@
-Please STAR this project, if you like this project!
+Please STAR this project, if you love this project!
 # Algorithms
 This project includes most popular algorithms used in software engineering jobs' interviews.
+Leetcode solutions:
 # Array
 |  ID  |      Title     |   Solutions   | Video in Chinese| Video in English                   
 |-----|-----------------|---------------|-----------------|-----------------
