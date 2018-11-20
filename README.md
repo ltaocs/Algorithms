@@ -1,3 +1,4 @@
+Please STAR this project, if you like this project!
 # Algorithms
 This project includes most popular algorithms used in software engineering jobs' interviews.
 # Array
