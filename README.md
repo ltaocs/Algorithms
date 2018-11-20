@@ -10,4 +10,4 @@ This project includes most popular algorithms used in software engineering jobs'
 
 [Solution](../master/src/com/ltaocs/array/ValidMoutainArray.java)
 
-[Test](../master/Algorithms/src/com/ltaocs/dynamicProgramming/test1.java)
+[Test](../master/src/com/ltaocs/dynamicProgramming/test1.java)
