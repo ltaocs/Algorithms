@@ -6,4 +6,6 @@ This project includes most popular algorithms used in software engineering jobs'
 
 |  ID  |      Title     |   Solutions   | Video in Chinese| Video in English                   
 |-----|-----------------|---------------|-----------------|-----------------
-|941|Valid Mountain Array|[Solution](../src/com/ltaocs/array/ValidMoutainArray.java) |
+|941|Valid Mountain Array|[Solution](https://github.com/ltaocs/Algorithms/blob/master/src/array/ValidMoutainArray.java) |
+
+[Solution](../master/src/com/ltaocs/array/ValidMoutainArray.java)
