@@ -5,7 +5,7 @@ package com.ltaocs.array;
  * a.ltaocs.com
  * Leetcode 941. Valid Mountain Array
  */
-public class ValidMoutainArray {
+public class ValidMountainArray {
     public boolean validMountainArray(int[] A) {
         int len = A.length;
         int peek1 = -1;
@@ -40,7 +40,7 @@ public class ValidMoutainArray {
 
     public static void main(String[] args) {
         int[] A = {14, 82, 89, 84, 79, 70, 70, 68, 67, 66, 63, 60, 58, 54, 44, 43, 32, 28, 26, 25, 22, 15, 13, 12, 10, 8, 7, 5, 4, 3};
-        ValidMoutainArray L = new ValidMoutainArray();
+        ValidMountainArray L = new ValidMountainArray();
         System.out.println(L.validMountainArray(A));
     }
 }
