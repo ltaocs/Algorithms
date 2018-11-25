@@ -1,4 +1,4 @@
-package com.ltaocs.array;
+package com.ltaocs.stack;
 
 import java.util.Stack;
 
