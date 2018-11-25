@@ -13,7 +13,7 @@ public class ValidMountainArray {
         if (len < 3) {
             return false;
         }
-        
+
         for (int i = 0; i < len - 1; i++) {
             if (A[i] == A[i + 1]) {
                 return false;
