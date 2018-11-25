@@ -5,7 +5,6 @@ import java.util.Arrays;
 /**
  * Lin Tao
  * a.ltaocs.com
- * 
  * Leetcode 945. Minimum Increment to Make Array Unique
  * Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1. *
  * Return the least number of moves to make every value in A unique.
@@ -27,9 +26,11 @@ public class MinimusIncrementToMakeArrayUnique {
         Arrays.sort(A);
         int result = 0;
         for (int i = 1; i < A.length; i++) {
-            if (A[i - 1] >= A[i]) {
-                result += A[i - 1] - A[i] + 1;
-                A[i] = A[i - 1] + 1;
+            int pre = A[i - 1];
+            int cur = A[i];
+            if (pre >= cur) {
+                result += pre - cur + 1;
+                A[i] = pre + 1;
             }
         }
         return result;
