@@ -1,7 +1,7 @@
 Please STAR this project, if you love this project!
 # Algorithms
 This project includes most popular algorithms used in software engineering jobs' interviews.
-There are a series [videos in English](https://www.youtube.com/channel/UCJ6HW8dBYPWfuaNwzGwAHmg?view_as=subscriber) and [videos in Chinese](https://www.youtube.com/channel/UCkctdWvmBpLw_fpU58pMquQ?view_as=subscriber).
+There are a series of [videos in English](https://www.youtube.com/channel/UCJ6HW8dBYPWfuaNwzGwAHmg?view_as=subscriber) and [videos in Chinese](https://www.youtube.com/channel/UCkctdWvmBpLw_fpU58pMquQ?view_as=subscriber).
 # Leetcode problems solutions:
 # Array
 |  ID  |      Title     |   Solutions   | Video in Chinese| Video in English                   
