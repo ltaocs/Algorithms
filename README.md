@@ -16,3 +16,5 @@ There are a series of [videos in English](https://www.youtube.com/channel/UCJ6HW
 [Leetcode 3. Longest Substring Without Repeating Characters](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/set/LongestSubstringWithoutRepeatingCharacters.java)
 # LinkedList
 [LeetCode 206. Reverse Linked List](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/linkedList/ReverseLinkedList.java)
+# Binary Search Tree
+[LeetCode 700. Search in a Binary Search Tree](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/binarySearchTree/SearchInBinarySearchTree.java)
