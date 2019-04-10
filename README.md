@@ -6,8 +6,9 @@ There are a series of [videos in English](https://www.youtube.com/channel/UCJ6HW
 ## Array
 |  ID  |      Title     |   Solutions   | Video in Chinese| Video in English                   
 |-----|-----------------|---------------|-----------------|-----------------
-|Leetcode 941|Valid Mountain Array|[Solution](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/array/ValidMoutainArray.java) |
+|Leetcode 941|Valid Mountain Array|[Solution](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/array/ValidMountainArray.java) |
 |Leetcode 945|Minimum Increment to Make Array Unique|[Solution](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/array/MinimusIncrementToMakeArrayUnique.java)
+|Leetcode 905|Sort Array By Parity|[Solution](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/array/SortArrayByParity.java)||https://youtu.be/11Q_LRPVFHg
 ## Stack
 [LeetCode 946 Validate Stack Sequences](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/stack/ValidateStackSequences.java)
 ## HashMap
