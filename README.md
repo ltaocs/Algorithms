@@ -22,4 +22,4 @@ There are a series of [videos in English](https://www.youtube.com/channel/UCJ6HW
 ## Dynamic Programing
 [LeetCode 70. Climbing Stairs](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/dynamicProgramming/ClimbingStairs.java)
 ## Bitwise Operation
-[]
+[LeetCode 136. Single Number](https://github.com/ltaocs/Algorithms/blob/master/src/com/ltaocs/bitwiseoperation/SingleNumber.java)
